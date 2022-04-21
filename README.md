@@ -1,2 +1,2 @@
-# UTS-PAM-Perdana-087
-File project aplikasi UTS PAM - Perdana Raga Winata 119140087
+# Tugas Individu 4 PAM
+File project aplikasi Tugas Individu 4 - Perdana Raga Winata 119140087
